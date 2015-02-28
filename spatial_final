@@ -1,0 +1,7 @@
+#I will be plotting spatial data from IUCN endangered bird species on a 
+#California map and I will also plot population densities to see if there
+#is a correlation between growing population densities and endangered birds
+#I was able to download the data for the range maps however the files are 
+#shapefiles .shp, .shx, .dbf and I have not been able to figure out how to
+#work with them. I worked with the grad students but they didnt know how to
+#work with the shape files either.
